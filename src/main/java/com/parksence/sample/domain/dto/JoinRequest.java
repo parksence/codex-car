@@ -2,9 +2,10 @@ package com.parksence.sample.domain.dto;
 
 import com.parksence.sample.domain.UserRole;
 import com.parksence.sample.domain.entity.User;
-import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;
 import lombok.Setter;
+
+import javax.validation.constraints.NotBlank;
 
 @Getter
 @Setter
